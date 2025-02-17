@@ -1,0 +1,3 @@
+17/02 - Retomada do curso
+
+- Não esquecer de inicializar o serviço do SQL para conseguir conectar o Database.
